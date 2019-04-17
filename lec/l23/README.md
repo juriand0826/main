@@ -1,1 +1,5 @@
-View the [Online Notebook](http://nbviewer.ipython.org/github/iit-cs579/main/blob/master/lec/l23/l23.ipynb) or download the `.ipynb` file and view locally.
+See the cyberbullying tutorial here:
+http://www.cs.albany.edu/~cchelmis/icwsm2018tutorial/
+
+As well as the slides from our paper here: 
+[liu_icwsm.pdf](liu_icwsm.pdf)
